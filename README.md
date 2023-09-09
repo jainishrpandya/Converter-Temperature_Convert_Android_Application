@@ -16,7 +16,7 @@ Kotlin Compiler: Make sure you have the Android Studio Letest Version installed.
 ## Clone the Repository
 Open your terminal.
 Navigate to the directory where you want to clone the repository.
-Run the following command to clone the repository: git clone https://github.com/jainishrpandya/Calculator-Android_App.git
+Run the following command to clone the repository: git clone https://github.com/jainishrpandya/Converter-Temperature_Convert_Android_Application.git
 
 ## Compile and Run 
 open the cloned file into android studio and You are Good to Go.
