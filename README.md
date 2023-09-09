@@ -1,6 +1,6 @@
 # Simple Temprature Converter in Kotlin
 
-This repository contains a basic implementation of a simple Temprature Converter using the Kotlin programming language. The calculator performs basic arithmetic operations such as Celcius to Ferenheit and Vice-Versa. It's a great starting point for beginners looking to learn Kotlin or anyone interested in understanding the fundamentals of building a console-based Temprature Converter application.
+This repository contains a basic implementation of a simple Temprature Converter using the Kotlin programming language. The Temprature Converter performs basic Celcuis to Ferenheit and vice-versa. It's a great starting point for beginners looking to learn Kotlin or anyone interested in understanding the fundamentals of building a console-based Temprature Converter application.
 
 ## Features
 
@@ -33,6 +33,6 @@ Create a pull request with a detailed description of your changes.
 # License
 This project is licensed under the name : Jainish Pandya.
 
-Feel free to explore, learn, and have fun with the Simple Calculator in Kotlin! If you have any questions or suggestions, please don't hesitate to open an issue or contact us.
+Feel free to explore, learn, and have fun with the Simple Temprature Converter in Kotlin! If you have any questions or suggestions, please don't hesitate to open an issue or contact us.
 
 Enjoy your coding journey! 🚀
